@@ -1,7 +1,7 @@
 # Speedle
 A game in the style of "worldle"-type game where you guess the top speed of animals.
 
-Written in cooperation with ...
+Written in cooperation with JonasNico
 
 # Personal Goal
 Improve own coding skills
@@ -9,7 +9,7 @@ Improve own coding skills
 # Information
 |        Title         |     Name      | 
 |:--------------------:|:-------------:|
-| Programming language |   Java 18     | 
+| Programming language |   Java 19     | 
 |         IDE          | IntelliJ IDEA | 
 
 # Languages and Tools
