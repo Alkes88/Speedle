@@ -1,7 +1,7 @@
 # Speedle
 A game in the style of "worldle"-type game where you guess the top speed of animals.
 
-Written in cooperation with JonasNico
+Written in cooperation with JonasNico :ocean:
 
 # Personal Goal
 Improve own coding skills
