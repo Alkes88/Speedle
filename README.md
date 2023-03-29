@@ -18,3 +18,6 @@ Improve own coding skills
 
 # History
 29.03.2023: Initial commit: Selection/preferences, Animals added, specific animal returned (Alkes88)
+
+# Time spent on Project(Alkes88)
+[![wakatime](https://wakatime.com/badge/user/d3f10ce3-5913-47b5-a908-6228fe4d4225/project/2f308e19-527b-4cd2-b40f-04a6ea217747.svg)](https://wakatime.com/badge/user/d3f10ce3-5913-47b5-a908-6228fe4d4225/project/2f308e19-527b-4cd2-b40f-04a6ea217747)
